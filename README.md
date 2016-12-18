@@ -1,4 +1,6 @@
-# MyDreamApp
+
+# angular2 - Tour of Heroes
+Angular-2 based Tour of Heroes application demonstrated on angular.io
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
@@ -25,7 +27,3 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Deploying to Github Pages
 
 Run `ng github-pages:deploy` to deploy to Github Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
